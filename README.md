@@ -39,8 +39,9 @@ We created some unique styles for SkyLine by using ReactJS and Tailwind CSS, the
 
 ### Figma Link : [Figma](https://www.figma.com/design/pUgt9dX3wmM4D8XOHbBylf/Airport-Traveling-Airplane-(Community)?node-id=26-129&t=WTwcCcYnQnU0FJdW-0)
 
-### Organaization Link : [Organaization]()
+### Organaization Link : [Organaization](https://github.com/AirLineProjectTeam/AirlineProject/tree/Tasneem)
+### Dashboard Link : [https://github.com/AirLineProjectTeam/Dashboard]
 
 ### Live URL for SkyLine : [SkyLine]()
 
-### Live URL for Dashboard : [Dashboard]()
+### Live URL for Dashboard : [Dashboard](https://github.com/TasnimZaid/DDashboard)
